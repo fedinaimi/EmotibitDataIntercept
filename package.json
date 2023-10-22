@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "chart.js": "^4.4.0",
+    "chokidar": "^3.5.3",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "dgram": "^1.0.1",
+    "express": "^4.18.2",
+    "osc-min": "^1.1.2",
+    "socket.io": "^4.7.2",
+    "sse-express": "^1.0.2",
+    "xml2js": "^0.6.2"
+  }
+}
